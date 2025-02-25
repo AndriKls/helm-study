@@ -1,0 +1,9 @@
+test: I am a string
+enviroment: staging
+
+replicaCount: 1
+
+
+image:
+  name: nginx
+  tag: "1.27.0"
